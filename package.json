@@ -1,0 +1,11 @@
+{
+  "name": "voting-dapp",
+  "version": "1",
+  "private": false,
+  "description": "voting dapp",
+  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ur300/voting-dapp.git"
+  }
+}
